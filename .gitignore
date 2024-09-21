@@ -1,0 +1,7 @@
+# Backend node_modules ve pnpm-lock.yaml
+backend/node_modules/
+backend/pnpm-lock.yaml
+
+# Frontend node_modules ve pnpm-lock.yaml
+frontend/node_modules/
+frontend/pnpm-lock.yaml
